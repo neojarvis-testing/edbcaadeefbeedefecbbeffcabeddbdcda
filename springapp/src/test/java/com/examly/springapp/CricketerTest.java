@@ -277,6 +277,7 @@ public class CricketerTest {
                 sysouts
                 login
                 login
+                ewr
 	}
 
 

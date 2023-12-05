@@ -276,6 +276,7 @@ public class CricketerTest {
 				.andReturn();
                 sysouts
                 login
+                login
 	}
 
 

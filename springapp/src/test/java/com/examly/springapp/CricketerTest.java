@@ -275,7 +275,9 @@ public class CricketerTest {
 				// validate boolean response
 				.andReturn();
                 sysouts
+                login
 	}
+
 
 	@Test
 	void Week2_Day6_getallTeam() throws Exception {
